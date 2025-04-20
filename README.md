@@ -8,4 +8,4 @@ Name of the creater of this file - Parul Saxena.
 
 # college
 
-DAV College Kharkhauda Meerut.
+DAV College Kharkhauda (Meerut).
